@@ -1,0 +1,32 @@
+p{
+    font-weight:bold;
+    color:blue;
+}
+ul{
+    color:red;
+}
+div{
+    border-style: solid;
+    border-width: 5px;
+    border-color:rgb(0, 217, 255);
+    padding:10px;
+    margin:10px;
+}
+#header{
+    border-style: dotted;
+    border-width: 7px;
+    border-color:blue;
+    background-color: rgba(0, 47, 255, 0.486);
+    margin-right:600px;
+    padding: 10px;
+     
+}
+
+.pics{
+    width: 400px;
+}
+
+.sections{
+
+
+}
